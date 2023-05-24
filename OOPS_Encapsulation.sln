@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOPS_Encapsulation", "OOPS_Encapsulation\OOPS_Encapsulation.csproj", "{5ADC4480-83F1-4175-9896-5F44ADA214FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5ADC4480-83F1-4175-9896-5F44ADA214FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5ADC4480-83F1-4175-9896-5F44ADA214FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5ADC4480-83F1-4175-9896-5F44ADA214FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5ADC4480-83F1-4175-9896-5F44ADA214FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {194AB9B4-0865-4871-9384-F7DA7BFDA584}
+	EndGlobalSection
+EndGlobal
